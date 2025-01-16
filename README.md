@@ -8,7 +8,7 @@ Welcome to the Employee Management System! This application is built using React
 - Secure Login for Admin and Employees.
 
 ---
-![Admin Dashboard](https://github.com/Rohitprajapat052/employee-management-system/blob/master/admin%20dashboard.png)
+![Admin Dashboard](https://github.com/Rohitprajapat052/employee-management-system/blob/master/admin%20dashboard%20.png)
 ![Employee Dashboard](https://github.com/Rohitprajapat052/employee-management-system/blob/master/employee%20dashboard.png)
 ## How to Use
 
